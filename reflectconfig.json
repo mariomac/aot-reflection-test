@@ -1,0 +1,10 @@
+[
+  {
+    "name" : "info.macias.aotrt.StaticConfig",
+    "allDeclaredFields": true
+  },
+  {
+    "name" : "info.macias.aotrt.Config",
+    "allDeclaredFields": true
+  }
+]
